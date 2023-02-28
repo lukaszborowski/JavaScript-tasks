@@ -12,7 +12,7 @@ Napisz funkcję ```getNumber```, która ma przyjmować dwa argumenty &ndash; lic
 ```JavaScript
 getNumber(2, [33, 54, 2, 1, 4, 100]) => true
 getNumber(5, [33, 54, 2, 1, 4, 100] ) => false
-```
+``` 
 
 ### Zadanie 2
 Napisz funkcję ```addTheSameNumbers```, która ma przyjmować dwa argumenty &ndash; liczbę i tablicę. Funkcja ta ma zwracać sumę
