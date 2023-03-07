@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 cardType.textContent = "";
                 btn.disabled = true;
             } else if(cardNumber.value.length < 13){
-                cardNumber.textContent = "";
+                cardType.textContent = "";
                 btn.disabled = true;
             }
 
